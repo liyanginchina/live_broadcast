@@ -55,6 +55,7 @@ Main components
   padding: 2em 0;
   margin-top: 2em;
   margin-bottom: 2em;
+  overflow: hidden;
 }
 #cd-timeline::before {
   /* this is the vertical line */
