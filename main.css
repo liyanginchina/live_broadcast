@@ -1,7 +1,7 @@
 @charset "utf-8";
 /* CSS Document */
 html,body,div,span,h1,h2,h3,h4,h5,h6,p,pre,a,code,em,img,small,strong,sub,sup,u,i,center,dl,dt,dd,ol,ul,li,fieldset,form,label{margin:0;padding:0;border:0;outline:0;font-size:100%;vertical-align:baseline;background:transparent}
-a{color:#A3CE49/*#424242*/; text-decoration:none;outline: none;}
+a{color:#81DA21/*#424242*/; text-decoration:none;outline: none;}
 a:hover{text-decoration:underline}
 a:focus {outline:none; -moz-outline:none;}
 ol,ul{list-style:none}
@@ -11,10 +11,10 @@ body{height:100%; font:14px/18px "Microsoft Yahei", Tahoma, Helvetica, Arial, Ve
 img{border:none}
 
 
-#header{width:100px; height:30px; margin:0px auto; position:relative;padding-top: 5px;}
-#logo{width:100px; height:30px; background:url(https://live.sioeye.cn/asset/images/sioeye_logo.png) no-repeat;margin: 0 auto 0 auto;}
+#header{width:120px;  margin:0px auto; position:relative;padding-top: 10px;}
+#logo{width:120px;  background:url(https://www.sioeye.cn/asset/images/official/logo_new.png) no-repeat;margin: 0 auto 0 auto;}
 #logo h1{text-indent:-999em;}
-#logo h1 a{display:block; width:100px; height300px}
+#logo h1 a{display:block; width:120px; height:35px}
 
 
 #main{width:980px; min-height:600px; margin:30px auto 0 auto; border:1px solid #d3d3d3; background:#fff; -moz-border-radius:5px;-khtml-border-radius: 5px;-webkit-border-radius: 5px; border-radius:5px;}
